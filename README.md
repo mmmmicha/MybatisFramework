@@ -17,7 +17,7 @@
     - isNotEqual : "!="
    
  - <h3>Mybatis 비교 지원 태그</h3>
-   - \'<if>  : 단일 조건문\'
+   - <![CDATA[<if>]]>  : 단일 조건문
   - ex) <<if test="str != null and str != ''"></if>>
      - equals(), toString(), equalsIgnoreCase() 도 쓸수 있음.
      - &&, || 대신 and, or 를 사용함.
