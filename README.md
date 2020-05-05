@@ -18,11 +18,11 @@
     * Mybatis 에서는 isNull, isEmpty 등을 지원하지 않음!!(일부는 지원하나..?)<br>
    
  - <h3>Mybatis 비교 지원 태그</h3>
-    - (if)  : 단일 조건문
-      - ex) (if test="str != null and str != ''")(/if)
-      - equals(), toString(), equalsIgnoreCase() 도 쓸수 있음.
-      - &&, || 대신 and, or 를 사용함.
+   - (if)  : 단일 조건문<br>
+      - ex) (if test="str != null and str != ''")(/if)<br>
+      - equals(), toString(), equalsIgnoreCase() 도 쓸수 있음.<br>
+      - &&, || 대신 and, or 를 사용함.<br>
   
-    - (choose) (when) (otherwise) : 다중 조건문
+   - (choose) (when) (otherwise) : 다중 조건문
     
    
