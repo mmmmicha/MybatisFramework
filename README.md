@@ -1,4 +1,4 @@
-# Ssangyong_Mybatis
+# Mybatis
 
   - 개요
     - 교육센터에서 배운 내용과 함께 새롭게 배우는 지식들을 담으려고 함.
